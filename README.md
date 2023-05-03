@@ -1,6 +1,6 @@
-# Bike Sharing Case-Study
->The Bike Sharing Case study of Upgrad &amp; IIITB | Global Program in Machine Learning &amp; AI <br>
-> Based on the data of US bike-sharing provider, we analyze and exploit all factors that have strong relationship with the demand for shared bikes. Then propose the model by using Linear Regression approaches to predict the demand for shared bikes based on other variables.
+# House Pricing Case-Study
+>The House Pricing Case study of Upgrad &amp; IIITB | Global Program in Machine Learning &amp; AI <br>
+> Based on the data of the house's price in Australian market, we analyze and exploit all factors that have strong relationship with the sale price. Then propose the model by using Polinominal Regression approaches to finding the impact variables of the house price in Australia.
 
 
 ## Table of Contents
